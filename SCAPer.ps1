@@ -5,7 +5,6 @@
 #Each STIG check is based on the Rule_ID of the listed vulnerability (Since the same vuln ID is reused across OS's and when DISA updated the STIG details)
 #If any items are still maked as Not reviewed, then its possible a new version of the STIG is being checked than what was coded,
 #    or I simply did not know how to check it (and thus you will find a blank section of code for the Rule_ID)
-#v1.3.03
 
 <# Revision History
 9/17/18 : Chris Steele (1456084571) - Script development started
